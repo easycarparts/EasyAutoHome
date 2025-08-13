@@ -66,7 +66,7 @@ src/
 ├── App.tsx            # Main app with routing
 └── main.tsx           # Entry point
 ```
-
+  s
 ## 🚀 Getting Started
 
 ### Prerequisites
